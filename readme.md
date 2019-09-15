@@ -5,7 +5,6 @@ Antonin Villemin
 Arsalan Larachi
 Yacine Benouniche
 
-
 # Context:
 
 - Recent major wildfire in the Amazon rainforest
@@ -19,6 +18,10 @@ Yacine Benouniche
 using the api of Canadian Centre for Climate Services we took the data of Fort Nelson from 2017 to 2019.
 Example of data for the 13th Septembre 2019:
 http://climate.weather.gc.ca/climate_data/hourly_data_e.html?hlyRange=2015-10-14%7C2019-09-13&dlyRange=2015-10-27%7C2019-09-13&mlyRange=%7C&StationID=54098&Prov=BC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2019&selRowPerPage=25&Line=0&searchMethod=contains&Month=9&Day=13&txtStationName=fort+nelson&timeframe=1&Year=2019
+
+# Demo:
+
+![Output sample](https://github.com/ars12345/hackathonClimateChange/raw/master/gif_live_1.gif)
 
 # Challenges we faced:
 
