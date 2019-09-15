@@ -22,6 +22,12 @@ Example of data for the 13th Septembre 2019: [Dataset][1]
 
 ![Output sample](https://github.com/ars12345/hackathonClimateChange/raw/master/gif_live_1.gif)
 
+# Folder Content:
+- final.csv: dataset
+- fire_propagation.py: script simulator
+- model.ipynb: wind predictor
+
+
 # Challenges we faced:
 
 - Finding the appropriate data, and the simulation of wildfire propagation.
